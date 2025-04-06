@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation_For_Amex">
+  <test thread-count="5" name="Automation_To_FillForm">
+    <classes>
+      <class name="test.NewTest"/>
+    </classes>
+  </test> <!-- Automation_To_FillForm -->
+</suite> <!-- Automation_For_Amex -->
